@@ -93,45 +93,6 @@ The options menu allows Sonic's control method to be changed from his Sonic 3-st
 Additional Patches
 Snowboard One.
 
-Taking the classic experience further, it is even possible to swap in sprite sets of Sonic and Tails that closely mimic their looks from Sonic 1 or Sonic 2, as well as reinstate the classic shields and/or monitors in place of their updated forms. The additional sprites used in Sonic 3 that never existed for those games have been faithfully recreated based on the available artwork. Due to the large volume of data involved in these changes, these options - along with a few other bells and whistles - are only available via the external ROM customiser, or through the IPS patches supplied below.
-Downloads
-Download.svg 	Download Sonic 3 Complete
-File: Sonic3C 130810.zip (2.15 MB) (info)
-Current version: 130810
-Additional Downloads
-
-The following contains IPS patches for the 130810 version, for those who prefer to apply optional patches manually rather than using the customiser.
-Download.svg 	Download Optional Patches
-File: Sonic3C 130810 ips.zip (385 kB) (info)
-Current version: 130810
-Prior versions
-
-    Sonic 3 Complete v130602 (info) (2.15 MB) (2.15MB, released 06/02/2013)
-    Optional customisation patches for v130602 (info) (387 kB) (388KB, released 06/02/2013)
-    Sonic 3 Complete v130601 (info) (2.15 MB) (2.15MB, released 06/01/2013)
-    Optional customisation patches for v130601 (info) (379 kB) (380KB, released 06/01/2013)
-    Sonic 3 Complete v130531 (info) (2.15 MB) (2.15MB, released 05/31/2013)
-    Optional customisation patches for v130531 (info) (379 kB) (380KB, released 05/31/2013)
-    Sonic 3 Complete v120402 (info) (2.09 MB) (2.09MB, released 04/02/2012)
-    Optional customisation patches for v120402 (info) (185 kB) (184KB, released 04/02/2012)
-    Sonic 3 Complete v120324 (info) (2.09 MB) (2.09MB, released 03/24/2012)
-    Optional customisation patches for v120324 (info) (185 kB) (184KB, released 03/24/2012)
-    Sonic 3 Complete v120304 (info) (2.09 MB) (2.09MB, released 03/04/2012)
-    Optional customisation patches for v120304 (info) (171 kB) (170KB, released 03/04/2012)
-    Sonic 3 Complete v110706 (info) (1.98 MB) (1.97MB, released 07/07/2011)
-    Optional customisation patches for v110706 (info) (9 kB) (9KB, released 07/07/2011)
-    Sonic 3 Complete v110623 (info) (1.98 MB) (1.97MB, released 06/23/2011)
-    Optional customisation patches for v110623 (info) (8 kB) (9KB, released 06/23/2011)
-    Sonic 3 Complete v101226 (info) (2.3 MB) (2.3MB, released 12/26/2010)
-    Sonic 3 Complete v101222 (info) (2.3 MB) (2.3MB, released 12/25/2010)
-    Optional customisation patches for v101226 or v101222 (info) (11 kB) (11KB, released 12/25/2010)
-    Sonic 3 Complete v100404 (info) (1.88 MB) (1.88MB, released 04/04/2010)
-    Optional customisation patches for v100404 (info) (7 kB) (7KB, released 04/04/2010)
-    Windows command-line customiser for v100404 (info) (16 kB) (16KB, released 04/04/2010)
-    Sonic 3 Complete v091230 (info) (1.88 MB) (1.88MB, released 12/31/2009)
-    Optional customisation patches for 091230 (info) (8 kB) (8KB, released 12/31/2009)
-    Sonic 3 Complete v091224 (info) (1.88 MB) (1.88MB, released 12/25/2009)
-
 Credits
 
 Based On: Sonic the Hedgehog 3, Sonic & Knuckles, Sonic & Knuckles Collection, Sonic Jam
