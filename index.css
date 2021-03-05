@@ -16,9 +16,26 @@
 }
 
 @font-face {
+	font-family: IBM Plex Mono;
+	src: url(fonts/IBMPlexMono-SemiBold.ttf);
+}
+
+@font-face {
+	font-family: Righteous;
+	src: url(fonts/Righteous-Regular.ttf);
+}
+
+@font-face {
+	font-family: Play;
+	src: url(fonts/Play-Regular.ttf);
+}
+
+@font-face {
   font-family: Abelone;
   src: url(fonts/Abelone-FREE.otf);
 }
+
+
 
 .oof{
 	width: 1px;
@@ -113,19 +130,19 @@
 	padding-top: 5px;
 }
 h1 {
-	font-family: 'Abelone';
+	font-family: Abelone;
 	}
 	
 h2 {
-	font-family: 'Play', sans-serif;
+	font-family: Play;
 	}
 	
 h3 {
-	font-family: 'Play', sans-serif;
+	font-family: Play;
 	}
 	
 h4 {
-	font-family: 'Righteous', cursive;
+	font-family: Righteous;
 	}
 	
 .h42{
@@ -142,21 +159,21 @@ a:visited{
 	color:black;
 }
 .SonicRules {
-	font-family: 'IBM Plex Mono', monospace;
+	font-family: IBM Plex Mono, monospace;
 	font-size: 13px;
 	opacity:1;
 	position:relative
 	}
 	
 .MetroidRules {
-	font-family: 'IBM Plex Mono', monospace;
+	font-family: IBM Plex Mono, monospace;
 	font-size: 0px;
 	opacity:1;
 	position:relative
 	}
 	
 .BarbieRules {
-	font-family: 'IBM Plex Mono', monospace;
+	font-family: IBM Plex Mono, monospace;
 	font-size: 0px;
 	opacity:1;
 	position:relative
@@ -179,7 +196,7 @@ a:visited{
 }
 
 p {
-	font-family: 'Righteous',cursive;
+	font-family: Righteous,cursive;
 	font-size: 11px;
 	text-align: center;
 	}
