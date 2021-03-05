@@ -68,3 +68,4 @@ Genesis 1.0 - Creation
 	Rev 3.6 pre1 - Pre-release of 3.6 adding and changing mainly visual things. Updates, enhancements, that sort of thing, plus fsf.
 	Rev 3.6 pre2 - A few more small tweaks and changes
 	Rev 3.6.1 - Added Sonic Time Twisted, it's a great fangame and I thought it deserved to be in the list.
+	Rev 3.6.3 - Removed the IFrame as it was causing longer page loading times, some code cleanup. The outdated browser pages and scripts have also been removed.

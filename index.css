@@ -226,7 +226,7 @@ p {
 	border-radius:4px;
 	background: linear-gradient(to left, rgba(0,0,255,0.3), rgba(0,0,255,1));
 	color:white;
-	
+	padding-bottom: 15px;
 
 }
 
@@ -270,7 +270,7 @@ p {
 
 .rot:hover{
 	width: 300px;
-    height: 1700px;
+    height: auto;
     transform:rotate(0deg);
     animation-name:fade2;
     animation-duration:0.5s;

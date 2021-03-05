@@ -1,27 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Video Games Marathon Rev 3.6.1</title>
+<title>Video Games Marathon Rev 3.6.3</title>
+
 <meta charset="utf-8">
 <link rel="icon" href="favicon.ico" type="image/x-icon"/> <!--Sets the favicon (little icon) for the page -->
-<link href="main4.css" rel="stylesheet"><!--Loads the main css file-->
-<link rel="stylesheet" href="outdatedbrowser.min.css">
+<link href="index.css" rel="stylesheet"><!--Loads the main css file-->
+
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300|Righteous|Play&effect=anaglyph" rel="stylesheet"> <!--Load the css sheet required for the Google Fonts-->
 </head>
-<body class="back CursorSonic"> <!-- The class back applies the background, CursorSonic applies the custom cursor. It loads the Star Trek date thing on load-->
-<div >
-<a href="classic.html"><img class="imgBlur" style="height: 10%; width: 10%;float: left;" src="images/Classic.svg" ></a>
+
+
+<body class="back CursorSonic"> <!-- The class back applies the background, CursorSonic applies the custom cursor. -->
+
+<div>
+<a href="omega/classic.html"><img class="imgBlur" style="height: 10%; width: 10%;float: left;" src="images/Classic.svg" ></a>
 <a href="https://github.com/Lunaqua/VideoGamesMarathon/"><img class="imgBlur"style="height: 10%; width: 10%;float: right;" src="images/Github.svg" ></a>
 </div>
+
 <div style="position:sticky; top: 18px;">
 <iframe class="DuckDuckGoScroll" src="https://duckduckgo.com/search.html?width=450&prefill=DuckDuckGo Search" style="margin:0;padding:0; width: 450px;height: 40px ;overflow:hidden;float:left; top: 18px;" frameborder="0"></iframe><!-- The DuckDuckGo Search Bar--></iframe>
 
-<h1 class="centre" style="width: 35%;opacity:0.75;border: 2px solid black ;border-radius:4px;font-size: 32;background-image: linear-gradient(to right, rgba(0,0,0,0.3), rgba(0,0,0,0.85));  margin:0;padding:0; float:right;"><a href="https://lunaqua.github.io/VideoGamesMarathon/">Video Games Marathon Rev 3.6.1</a></h1> <!--The title-->
+<h1 class="centre" style="width: 35%;opacity:0.75;border: 2px solid black ;border-radius:4px;font-size: 32;background-image: linear-gradient(to right, rgba(0,0,0,0.3), rgba(0,0,0,0.85));  margin:0;padding:0; float:right;"><a href="https://lunaqua.github.io/VideoGamesMarathon/">Video Games Marathon Rev 3.6.3</a></h1> <!--The title-->
 </div>
+
+
 <div style="padding-top:100px;">
 <h4 class="h4 centre">The following is a list of most games in the Sonic/Metroid franchise in chronological order.</h4>
 <h4 class="h4 centre">It is intended for use as a marathon list according to the following rules:</h4>
 </div>
+
 <ul>
 <h2>Rules:</h2>
 <div class="BackgroundFade">
@@ -67,7 +75,7 @@
 <li>Loading time advantages are okay (i.e Xbox360 vs. PS3)</li>
 <li>They can not be played if featured on the list below unless it is a bonus game and is going to skipped.</li>
 <li>Optional games (<font color="blue">in blue</font>) are okayed to be skipped.</li>
-<li>ROM Hacks (in <font color="red">Red</font>) are okayed to be skipped. (<a href="https://lunaqua.github.io/VideoGamesMarathon/ROMHacks/ROMHacks.zip">ROMHacks.zip</a>)</li>
+<li>ROM Hacks (in <font color="red">Red</font>) are okayed to be skipped. (<a href="ROMHacks/ROMHacks.zip">ROMHacks.zip</a>)</li>
 <li>Games in <font color="green">green</font> are not yet released.</li>
 <li>You can skip red games and not blue games and vice versa.</li>
 <li>Optionally Sonic 3 Complete can be played instead of Sonic 3 and Knuckles (More info: <a href="https://info.sonicretro.org/Sonic_3_Complete">https://info.sonicretro.org/Sonic_3_Complete</a>. I personally recommend it.)</li>
@@ -308,24 +316,21 @@ Barbie: Dolphin Magic
 	Rev 3.6 pre2 - A few more small tweaks and changes <br>
 	Rev 3.6   - Finally a new update, added Sonic 2 SMS Remake, modified many visual aspects. Removed FSF banner<br>
 	Rev 3.6.1 - Added Sonic Time Twisted, it's a great fangame and I thought it deserved to be in that section <br>
+	Rev 3.6.3 - Removed the IFrame as it was causing longer page loading times, some code cleanup. The outdated browser pages and scripts have also been removed.<br><br>
 </p>
-
 </div>
 
-<div class="snn" style=""><iframe id="webpage" src="https://sonic.fandom.com/wiki/Sonic_News_Network" name="iframe1" class="snnpage" style=""></iframe></div>
-
-<div style="width: 370px;opacity:0.85;border: 4px solid black ;border-radius:10px;background-color:white;margin-right:auto">
+<div style="width: 370px;opacity:0.85;border: 4px solid black ;border-radius:10px;background-color:white;margin-right:auto;">
 <h3 style="color:purple">Thanks for Reading!<br>
 by TheBATs/Navi4205
 </h3>
 <h4>Licensed under the GNU GPL-3.0 License.</h4>
+
 <Button class="MainButton TailsButton" onclick="Tails()">Tails Mode</Button> 
 
 <Button class="MainButton ShadowButton" onclick="Shadow()">Shadow Mode</Button>
 
 <Button class="MainButton MetroidButton" onclick="MetroidList(); setTimeout(orange, 6000)">Metroid Mode</Button>
-
-<Button class="MainButton SonicRetroButton"onclick="SonicRetro()">Sonic Retro</Button>
 
 <Button class="MainButton BarbieButton" onclick="Barbie()">Barbie Mode</Button>
 
@@ -511,50 +516,11 @@ function Shadow() {
 	}
 </script>
 
-<script><!--Sonic Retro Script-->
-function SonicRetro() {
-	document.getElementById("webpage").src="https://info.sonicretro.org";
-}
-</script>
-
 
 <audio id="audioid" src="music\ss.flac" 
 	controls>
 </audio>
 </div>
-
-    <div id="outdated"></div>
-
-
-    <!-- javascript includes -->
-    <script src="outdatedbrowser.min.js"></script>
-
-    <!-- plugin call -->
-    <script>
-        //event listener form DOM ready
-        function addLoadEvent(func) {
-            var oldonload = window.onload;
-            if (typeof window.onload != 'function') {
-                window.onload = func;
-            } else {
-                window.onload = function() {
-                    if (oldonload) {
-                        oldonload();
-                    }
-                    func();
-                }
-            }
-        }
-        //call function after DOM ready
-        addLoadEvent(function(){
-            outdatedBrowser({
-                bgColor: '#f25648',
-                color: '#ffffff',
-                lowerThan: 'transform',
-                languagePath: 'en.html'
-            })
-        });
-    </script>
     
 <div class="footerStyle">
 <center>
