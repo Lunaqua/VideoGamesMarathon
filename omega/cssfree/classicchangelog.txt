@@ -1,0 +1,71 @@
+Changelog for main site.
+
+Genesis 1.0 - Creation
+	Rev 1.1   - Added the Rules
+	Rev 1.2.1 - More Rules and Optional Games
+	Rev 1.2.5 - Added more optional games
+	Rev 1.2.7 - Some more clarification
+	Rev 1.3   - Spelling fixes, Removal of a rule, more clarity
+	Rev 1.3.1 - Changelog added
+	Rev 1.3.3 - Removal of Sonic 3D Blast (Saturn) due to emulaton issues
+	Rev 1.3.4 - Removal of Sonic Jam due to simply containing Sonic 1 - 3 and knuckles
+	with the only addition being Sonic World.
+	Rev 1.4   - A bit more formatting!
+	Rev 1.4.5 - An addition of a timer! Just double-click "Timer!" and click run!
+	Rev 1.4.6 - Removal of Mario and Sonic and the Olympic Games.
+	Rev 1.4.7 - Removal of No Breaks
+	Rev 1.4.8 - Turned Sonic Pocket Adventure black (not-optional)
+	Rev 2.0   - A massive update including the move to html!
+	Rev 2.0.1 - Small Tweaks and layout changes.
+	Rev 2.1   - Large Update featuring Sonic ROM Hacks and the option of playing Sonic 3 complete
+	Rev 2.1.1 - Added link to the ROM hacks added so far
+	Rev 2.1.2 - Added the rule that you must complete Sonic 3 with both routes. Also I am no longer going to update the title of the html file.
+	Rev 2.1.5 - Added more ROM Hacks
+	Rev 2.1.6 - Shh, it's a pepperoni secret... 
+	Rev 2.1.8 - Added a particular rule...
+	Rev 2.2   - Moved Sonic 3D Blast Director's Cut on the basis of it being a ROMHack.
+	Rev 2.2.1 - Small Fix (S3DB:DC) 
+	Rev 2.2.3 - Added Team Sonic Racing 
+	Rev 2.2.5 - Removed Sonic Superstars as it requires the eyetoy.
+	Rev 2.2.6 - A classic rule returns!
+	Rev 2.3   - Added Tails Mode and a small look change
+	Rev 2.3.3 - Bit of Music ay
+	Rev 2.3.5 - Added Shadow Mode and a DuckDuckGo Search Bar
+	Rev 2.3.6 - Some more music tracks 
+	Rev 2.5   - A massive new update featuring a new list and name
+	Rev 2.5.1 - Fixed small text bug
+	Rev 2.5.3 - Added a WebNeko! <a href="http://www.webneko.net">(http://www.webneko.net)</a> 
+	Rev 2.5.5 - Tails Adventure is now optional 
+	Rev 2.5.6 - Re-removed a certain rule. 
+	Rev 2.6   - Complete revamp of the Metroid list, and removal of neko.
+	Rev 2.6.2 - Removal of the timer and changelog rotation. Changelog initial form has been streamlined. Among other asthetic changes.
+	Rev 2.7   - Addition of a Sonic News Network Browser to the side. 
+	Rev 2.7.1 - Fix of a minor text issue 
+	Rev 2.7.5 - Added a Metroid Page! 
+	Rev 2.8 Pre1 - A Pre-release of 2.8 featuring clickable links in the Sonic list and other enhancements.
+	Rev 2.8   - All the Sonic links have now been added. Sonic Boom: Shattered Crystal is now a separate listing and Sonic Mania has been changed to Sonic Mania Plus. 
+	Rev 2.8.1 - Episode Metal is now a separate game.
+	Rev 2.8.2 - Actually changed the title this time and Sonic Retro is now a MainButton.
+	Rev 2.8.5 - Added Metroid Links, Added Super Smash Bros. Brawl to Metroid list, Corrected spelling of "Emissary", MP3:C is not on GC! 
+	Rev 2.8.6 - More Cursors!
+	Rev 2.9   - No real new features, but just cleaning up the code quite a bit. Also this version is supplied in a zip file. Futher releases will just be a html page and css file to replace unless content has changed.
+	Rev 3.0   - The website is now avaliable at <a href="https://thebats.ga">thebats.ga</a>
+	Rev 3.0.1 - Updated ROMHacks link
+	Rev 3.0.5 - Added the original Sonic Adventure games as optional titles
+	Rev 3.1   - The Sonic 1,2 and CD remakes have been added as optional titles. 2 ROM Hacks have been added. ROMHacks.zip has been updated. Sonic Mania Plus' Encore Mode has been added as optional. Music no longer autoplays and Links to speedrun timers have been added.
+	Rev 3.2   - Added a browser check for older versions of browsers. Also added a classic version (no-css) for those browsers.
+	Rev 3.2.1 - Various Tweaks.
+	Rev 3.2.2 - Changed all links to point to lunaqua.github.io/VideoGamesMarathon.
+	Rev 3.2.5 - Fixed compatibility with chromium-based browsers. Ugly, but it works.
+	Rev 3.3   - Added Sonic 3 A.I.R and changed music on the sonic pages. Complete migration to github.
+	Rev 3.3.2 - Moved Metroid: Other M to be played as a prequel.
+	Rev 3.4   - The Barbie Update, this was requested I think?
+	Rev 3.4.2 - Added a couple extra links.
+	Rev 3.4.5 - Sonic Team Racing has now been released!
+	Rev 3.5   - Revised the list of Optional Titles.
+	Rev 3.5.2 - More internal changes.
+	Rev 3.5.5 - Added Sonic 1 SMS Remake to the list.
+	Rev 3.6 pre1 - Pre-release of 3.6 adding and changing mainly visual things. Updates, enhancements, that sort of thing, plus fsf.
+	Rev 3.6 pre2 - A few more small tweaks and changes
+	Rev 3.6.1 - Added Sonic Time Twisted, it's a great fangame and I thought it deserved to be in the list.
+	Rev 3.6.3 - Removed the IFrame as it was causing longer page loading times, some code cleanup. The outdated browser pages and scripts have also been removed.
