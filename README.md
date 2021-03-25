@@ -14,14 +14,8 @@ These are games not in the main sonic franchise or they are remakes of older gam
 ## What's Psi 4
 Still not sure yet.
 
-### What's Giffgaff?
-A mobile network in the UK, it's just an affiliate link. I haven't been sponsored.
-
 ## Any Cookies?
 Tasty, but no.
-
-### What's this Outdated Browser thingy (If it still works)
-Err, you probably want to use something that isn't netscape, or chrome really for that matter. Use Firefox. 
 
 ### Why is the changelog so long
 Because updates.
