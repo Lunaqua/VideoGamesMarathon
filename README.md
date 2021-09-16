@@ -12,7 +12,7 @@ Because I'm bad.
 These are games not in the main sonic franchise or they are remakes of older games or ports. The ROM Hacks are also optional.
 
 ## What's Psi 4
-Still not sure yet.
+The idea was a complete remake of the site called VGM 4.0 Psi, but I ended up not bothering with that.
 
 ## Any Cookies?
 Tasty, but no.
