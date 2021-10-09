@@ -21,8 +21,8 @@ Tasty, but no.
 Because updates.
 
 ### What about the license?
-The webpage's code and assets I made myself are under the GNU GPL. Assets and other things I have no idea. The fonts are free for noncommerial use.
-Versions before 3.2.1/3.2.2 ish did not have a license attached and are basically therefore in the public domain I guess,  if you can find them.
+The webpage's code and assets I made myself are under the GNU GPL v3. Assets and other things I have no idea.
+Versions before 3.2.1/3.2.2 ish did not have a license attached and are basically therefore in the public domain I guess, if you can find them.
 Before 2.0 it wasn't even a webpage so...
 
 ### Aren't you breaking some sort of copyright law or something?
