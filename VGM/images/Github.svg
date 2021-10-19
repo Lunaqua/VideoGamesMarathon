@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Github.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 63.121448 58.285436"
+   height="220.29141"
+   width="238.56926">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient49"
+       inkscape:collect="always">
+      <stop
+         id="stop45"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1;" />
+      <stop
+         id="stop47"
+         offset="1"
+         style="stop-color:#0088aa;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.4480428,1.1891029,-0.54015723,-1.1120407,190.87822,-57.391681)"
+       r="31.560725"
+       fy="2.7917421"
+       fx="54.921085"
+       cy="2.7917421"
+       cx="54.921085"
+       id="radialGradient51"
+       xlink:href="#linearGradient49"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="716"
+     inkscape:window-width="1360"
+     units="px"
+     inkscape:snap-object-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="180.90909"
+     inkscape:cx="322.81385"
+     inkscape:zoom="0.66"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path23"
+       d="M 63.12145,29.142718 V 0 H 31.371447 C 13.908947,0 -0.20715874,0.152463 0.00230126,0.338805 0.88507126,1.124142 60.630554,55.947909 61.818578,57.062789 l 1.302872,1.22265 z"
+       style="fill:url(#radialGradient51);fill-opacity:1;stroke-width:0.400883" />
+    <text
+       inkscape:transform-center-x="0.051849037"
+       inkscape:transform-center-y="-0.5088351"
+       transform="rotate(42.466077,30.248909,38.344823)"
+       id="text35"
+       y="29.142719"
+       x="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:55.2127;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         x="0"
+         y="29.142719"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Github</tspan></tspan></text>
+  </g>
+</svg>

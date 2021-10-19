@@ -48,7 +48,7 @@ Changelog for Main Site. (Revised Version with correct Versioning)
 	v2.7.2     - Actually changed the title this time and Sonic Retro is now a MainButton.
 	v2.7.3     - Added Metroid Links, Added Super Smash Bros. Brawl to Metroid list, Corrected spelling of "Emissary", MP3:C is not on GC! 
 	v2.7.4     - More Cursors!
-    v2.8.0     - No real new features, but just cleaning up the code quite a bit. Also this version is supplied in a zip file. Futher releases will just be a html page and css file to replace unless content has changed.
+	v2.8.0     - No real new features, but just cleaning up the code quite a bit. Also this version is supplied in a zip file. Futher releases will just be a html page and css file to replace unless content has changed.
 	v2.9.0     - The website is now avaliable at <a href="https://thebats.ga">thebats.ga</a>
 	v2.9.1     - Updated ROMHacks link
 	v2.9.2     - Added the original Sonic Adventure games as optional titles
@@ -69,3 +69,4 @@ Changelog for Main Site. (Revised Version with correct Versioning)
 	v2.12.6-pre.2 - A few more small tweaks and changes
 	v2.12.6    - Added Sonic Time Twisted, it's a great fangame and I thought it deserved to be in the list.
 	v2.13.0 - Removed the IFrame as it was causing longer page loading times, some code cleanup. The outdated browser pages and scripts have also been removed.
+	v2.13.1 - Updated the Metroid and Barbie lists. The page will now no longer be updated.
