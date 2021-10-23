@@ -3,6 +3,8 @@
  * Shoutouts to CollabVM if you see then 
 */
 
+/*  linear-gradient(104deg, rgba(19,2,70,1) 0%, rgba(9,166,115,1) 57%, rgba(0,255,233,1) 100%); */
+
 .pageBackground {
     background: url("images/background2.png") repeat
     
@@ -17,7 +19,7 @@
     border-radius: 10px;
     margin: 1% 1% 1% 1%;
     border-right-width: 4px; 
-    border-right-color: orange;
+    border-right-color: #00ffe1;
     background: rgba(240, 240, 240, 0.90);
     overflow: hidden
     
@@ -44,9 +46,11 @@
 .horizontalRule {
     width:97%;
     border-width: 1px;
-    border-color: orange;
+    border-color: #00002d;
     border-style: solid;
     border-radius: 10px;
+    border-image-source: linear-gradient(104deg, rgba(19,2,70,1) 0%, rgba(9,166,115,1) 57%, rgba(0,255,233,1) 100%);
+    border-image-slice : 1;
     
 }
 
@@ -77,4 +81,9 @@
     float: right;
     padding-top: 1%;
     padding-right: 2%;
+}
+
+.centreAlign {
+    display: flex; 
+    justify-content: center;
 }
