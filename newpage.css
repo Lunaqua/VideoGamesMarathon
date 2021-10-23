@@ -6,3 +6,38 @@
 .pageBackground {
     background: url("images/background2.png") repeat
 }
+
+.mainDivArea {
+    border-style:solid;
+    padding-left: 1%; 
+    padding-right: 1%;
+    border-width: 2px;
+    border-color: #00002d;
+    border-radius: 10px;
+    margin: 1% 1% 1% 1%;
+    border-left-width: 6px; 
+    border-left-color: orange;
+    background: rgba(240, 240, 240, 0.75)
+}
+
+.titleStyle {
+    font-family: Raleway;
+    font-weight: light;
+    color: #00002d;
+    font-size: 1.5em;
+    padding: 0%;
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(fonts/Raleway-VariableFont_wght.ttf);
+}
+
+.horizontalRule {
+    width:97%;
+    border-width:2px;
+    border-color: orange;
+    border-style: solid;
+    border-radius: 10px;
+    
+}
